@@ -1,0 +1,5 @@
+spring:
+    message: azure-web-setup application by Didrik Fleischer
+
+server:
+    port: 8081
